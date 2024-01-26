@@ -1,16 +1,0 @@
-Êþº¾   = (hhhhhhhhhh
-       java/lang/Object <init> ()V@       
- 
- 
-   
-  java/lang/Math pow (DD)D	       java/lang/System out Ljava/io/PrintStream;  
-Evil number
-       java/io/PrintStream  println (Ljava/lang/String;)V  Not evil number    suri Code LineNumberTable main ([Ljava/lang/String;)V 
-StackMapTable 
-SourceFile wow.java               !        *· ±    "        	 # $  !   ƒ     ;	<>‡  ¸ 	Ž=ž *
-p`>
-l=  ² ¶ §ÿã² ¶ §ÿØ±    "   & 	        	  
-    
- $  /  :  %   
- þ 
-  &    '
